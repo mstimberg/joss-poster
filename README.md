@@ -1,7 +1,9 @@
 # JOSS poster
 
 Source files for a JOSS poster that I first presented at
-[RSECon23](rsecon23.society-rse.org/).
+[NOW 2023](https://open-neuro.org/).
+
+Adapted to A1 and updated with recent numbers for Warrick Ball's version: https://github.com/warrickball/joss-poster
 
 Made using the [`tikzposter`](https://ctan.org/pkg/tikzposter) LaTeX
 class.
