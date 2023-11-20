@@ -1,0 +1,15 @@
+# downloaded files
+JOSS-flowchart-updated.pdf
+by.png
+# generated PDF
+joss-poster.pdf
+
+# Core LaTeX files
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+
+# Other LaTeX-related files
+*.synctex.gz
